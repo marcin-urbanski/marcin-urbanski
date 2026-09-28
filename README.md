@@ -26,7 +26,7 @@ I contribute to [Open Mercato](https://github.com/open-mercato/open-mercato), an
 <img src="https://cdn.simpleicons.org/react" alt="React" title="React" width="32" height="32">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/swift" alt="Swift" title="Swift" width="32" height="32">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" title="Tailwind CSS" width="32" height="32">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mysql" alt="MySQL" title="MySQL" width="32" height="32">&nbsp;&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mysql/ffffff"><img src="https://cdn.simpleicons.org/mysql" alt="MySQL" title="MySQL" width="32" height="32"></picture>&nbsp;&nbsp;&nbsp;
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mariadb/ffffff"><img src="https://cdn.simpleicons.org/mariadb" alt="MariaDB" title="MariaDB" width="32" height="32"></picture>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" width="32" height="32">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/wordpress" alt="WordPress" title="WordPress" width="32" height="32">&nbsp;&nbsp;&nbsp;

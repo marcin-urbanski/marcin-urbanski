@@ -2,7 +2,7 @@
 
 I'm a web developer and designer based in Southampton, UK, working across UX, UI and graphic design. I build web apps with Laravel and Next.js, and lately a native macOS app in Swift. Because I design what I build, I care about how easy a product is to use as much as how it works.
 
-I work spec-first with AI coding agents (mostly Claude Code): I write the spec, the agent writes the code, and I review and test the result.
+I work spec-first with AI coding agents (mostly Claude Code): I write the spec, the agent writes the code, and I review and test the result. The skills and hooks I use for this are public in [claude-skills](https://github.com/marcin-urbanski/claude-skills).
 
 ## What I'm building
 
